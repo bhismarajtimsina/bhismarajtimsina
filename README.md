@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cover" />
 </div>
 
-<h1>WELCOME TO < TO MY PROFILE/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1>WELCOME TO < TO MY PROFILE/ >! <img src = "[https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" width = 50px height='50px'> </h1>
 <p align='center'>
 
 [![Bhisma Raj Timsina profile views](https://u8views.com/api/v1/github/profiles/89329040/views/day-week-month-total-count.svg)](https://u8views.com/github/bhismarajtimsina)
