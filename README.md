@@ -55,6 +55,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhismarajtimsina&theme=default" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhismarajtimsina&exclude_days=Sat)](https://git.io/streak-stats)
+
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
