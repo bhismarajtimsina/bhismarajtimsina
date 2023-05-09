@@ -49,10 +49,10 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=https://github.com/bhismarajtimsina&count_private=true&show_icons=true&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=https://github.com/bhismarajtimsina&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bhismarajtimsina&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bhismarajtimsina&theme=default" />
 </a>
 
 <h2> My Blog Posts </h2>
