@@ -5,7 +5,7 @@
 <h1>< CYBERSECURITY/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bhismarajtimsina.bhismarajtimsina)
+[![Bhisma Raj Timsina profile views](https://u8views.com/api/v1/github/profiles/89329040/views/day-week-month-total-count.svg)](https://u8views.com/github/bhismarajtimsina)
 
 </p>
 <div size='20px'> Hi! My name is Bhisma Raj Timsina. Thank You for taking the time to view my GitHub Profile :smile: 
