@@ -249,7 +249,7 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
   
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark"> -->
+<a href="https://stackoverflow.com/users/22528858/bhismatimsina"><img src="https://github-readme-stackoverflow.vercel.app/?userID=22528858&theme=dark"> -->
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
  <p align="center">
