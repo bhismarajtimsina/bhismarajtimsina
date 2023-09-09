@@ -296,14 +296,7 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"> -->
   
-<!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150"> -->
-  
-<!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
- <p align="center">
-<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/> -->
-  
+
 
 <!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
 <h2 align="center">
@@ -355,7 +348,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D3vil0p3r&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=bhismarajtimsina&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
