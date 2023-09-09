@@ -225,9 +225,7 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
  <p align="center">
 <img src="https://github.com/bhismarajtimsina/bhismarajtimsina/raw/main/.images/banner.svg"  width="600">  -->
   
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400"> -->
+
   
 <!--📏LINE-->
 <p align="center">
