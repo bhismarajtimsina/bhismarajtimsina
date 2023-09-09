@@ -233,10 +233,6 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
   
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
- <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> -->
-  
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
  <p align="center">
@@ -246,8 +242,6 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg"> -->
   
 <!--📏LINE-->
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
@@ -408,7 +402,6 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Monday, September 5th, 2022, 1:56:38 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 
