@@ -221,9 +221,6 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-jedi.gif" height="150" width="150">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150">
   
-<!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
- <p align="center">
-<img src="https://github.com/bhismarajtimsina/bhismarajtimsina/raw/main/.images/banner.svg"  width="600">  -->
   
 
   
