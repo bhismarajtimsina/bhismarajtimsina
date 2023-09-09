@@ -223,7 +223,7 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
   
 <!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
  <p align="center">
-<img src="https://github.com/D3vil0per/D3vil0per/raw/main/.images/banner.svg"  width="600">  -->
+<img src="https://github.com/bhismarajtimsina/bhismarajtimsina/raw/main/.images/banner.svg"  width="600">  -->
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
@@ -259,7 +259,7 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
  <p align="center">
-<img src="https://komarev.com/ghpvc/?username=D3vil0per&color=0E9C47&style=for-the-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=bhismarajtimsina&color=0E9C47&style=for-the-badge"> -->
   
 
   
@@ -372,7 +372,7 @@ Join the Word Cloud Board :cloud: :pencil2:
   </tr>
  <tr>
     <td><p align="center"><a href="https://github.com/bhismarajtimsina?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/bhismarajtimsina/bhismarajtimsina/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr> -->
  </table>
     
@@ -396,7 +396,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/bhismarajtimsina/bhismarajtimsina/main/.images/footer.svg" width="100%">
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
