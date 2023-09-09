@@ -237,14 +237,6 @@ I am a Cyber Security Researcher <img src="https://media.giphy.com/media/WUlplcM
  <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> -->
   
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"> -->
-  
-
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f"> -->
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
  <p align="center">
